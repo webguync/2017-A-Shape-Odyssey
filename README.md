@@ -1,0 +1,2 @@
+# 2017-A-Shape-Odyssey
+CSS3 is so much more interesting now that advanced animation can be accomplished with keyframes.I liked testing the various speeds of the animation shapes, the transform declaration which enables you to resize and element during the animation and skew it as well as set the perspective. You can also create different shapes using just CSS (and a little HTML).Combine the two and you get a fun project that I have named: "2017 - A shape Odyssey". Enjoy!  View Animation
